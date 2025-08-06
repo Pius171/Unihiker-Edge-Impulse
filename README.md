@@ -1,2 +1,3 @@
-# Unihiker-Edge-Impulse-Gesture-Recognition
-A gesture recognition machine learning model trained using edge impulse, deployed to unihiker.
+# Unihiker-Edge-Impulse
+## How to connect Unihiker to Edge Impulse
+
