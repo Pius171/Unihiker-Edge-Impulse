@@ -26,17 +26,8 @@ During data collection, data is not labelled, so you might have to label each im
 <img width="571" height="457" alt="image" src="https://github.com/user-attachments/assets/4850bb34-fd6e-466d-a390-7423bf8765dd" />
 
 # Feature Extraction
+
 <img width="572" height="517" alt="image" src="https://github.com/user-attachments/assets/9eb80d5b-92b0-4627-a5f9-2e3ff2f7e006" />
 
 Not so great but my goal here is not accuracy, it is  just to text Unihiker's compability with Edge Impulse.
-
-
-
-
-
-
-
-understand the scope/intricases of the project
-show some proof that you actually did the project
-expose the tools/skills in between the lines
 
