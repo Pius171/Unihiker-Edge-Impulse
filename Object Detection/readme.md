@@ -1,5 +1,5 @@
 # Connecting Unihiker to Edge Impulse
-**Before moving on, do note that none of the commands below will work if edge-impule-linux is not installed**
+**Before moving on, do note that none of the commands below will work if edge-impule-linux is not installed**. Go back to to the root page of this directory
 Open a terminal on Unihiker and send the command below to connect to Edge Impulse. Make sure a USB camera is attached before sending the command.
 
 ```
