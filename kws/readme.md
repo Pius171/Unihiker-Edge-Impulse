@@ -1,10 +1,11 @@
 For this project all you need is the Unihiker M10 SBC by Dfrobot
+
 <img width="756" height="538" alt="image" src="https://github.com/user-attachments/assets/447abf39-3b35-4e7d-8cd7-f893ad362f96" />
 
 ## Start edge impulse
 In you terminal, type in the following commands
 ```
-edge-impulse-linux
+edge-impulse-linux --disable-camera
 ```
 Sign in and select your project
 
